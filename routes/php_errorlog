@@ -1,0 +1,4 @@
+[03-Oct-2019 13:35:43 CST6CDT] PHP Fatal error:  Uncaught Error: Class 'Route' not found in /home/mdazheri/public_html/lucsecarnival.info/routes/web.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/mdazheri/public_html/lucsecarnival.info/routes/web.php on line 14
